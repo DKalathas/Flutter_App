@@ -1,4 +1,4 @@
-# flutter_application_1
+# Flutter app for visitors to find the best places in Athens 
 
 A new Flutter project.
 
